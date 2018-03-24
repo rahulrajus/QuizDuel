@@ -1,0 +1,18 @@
+{
+    "artboards": [
+        "/src/artboards/Untitled.js",
+        "/src/artboards/Untitled1.js"
+    ],
+    "symbols": [
+        "/src/symbols/Key.js"
+    ],
+    "assets": [],
+    "defaultArtboardDirectory": "/src/artboards",
+    "defaultSymbolDirectory": "/src/symbols",
+    "defaultAssetDirectory": "/src/assets",
+    "deviceName": "iPhone 6",
+    "deviceOrientation": "portrait",
+    "basePath": "/Users/Rahul/GoogleDrive/Personal_Projects/QuizDuel/BuilderX/QD",
+    "tempPath": "/var/folders/r1/6nxd1y0x7_q_g0z5h154pfbw0000gn/T/BuilderPscKAL3",
+    "useStylesheet": true
+}
